@@ -4,10 +4,10 @@ This assignment focuses on exception handling, string manipulation, wrapper clas
 
 Key Concepts Covered:
 
-Exception Handling: Handling division by zero, invalid input, file not found, custom exceptions, and cleanup using finally blocks.
+1. Exception Handling: Handling division by zero, invalid input, file not found, custom exceptions, and cleanup using finally blocks.
 
-StringBuilder & StringBuffer: For creating, updating, inserting, deleting, reversing, and replacing text efficiently.
+2. StringBuilder & StringBuffer: For creating, updating, inserting, deleting, reversing, and replacing text efficiently.
 
-Wrapper Classes: Demonstrating autoboxing, unboxing, and conversions between primitives and objects.
+3. Wrapper Classes: Demonstrating autoboxing, unboxing, and conversions between primitives and objects.
 
-Resource Management: Using final, finally, and finalize() for data security, cleanup, and object lifecycle management.
+4. Resource Management: Using final, finally, and finalize() for data security, cleanup, and object lifecycle management.
